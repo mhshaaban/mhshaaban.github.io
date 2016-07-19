@@ -1,0 +1,14 @@
+[
+    {
+        "name"    : "Qalāwūn",
+        "type"    : "group0",
+        "depends" : [
+            "al-Ashraf Khalīl",
+            "al-Nāṣir Muḥammad"
+        ]
+    }, {
+        "name"    : "al-Nāṣir Muḥammad",
+        "type"    : "group0",
+        "depends" : []
+    },
+]
